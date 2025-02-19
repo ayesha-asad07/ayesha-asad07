@@ -1,4 +1,14 @@
-## Hi there 👋
+# Welcome to My Profile! 👋
+
+I'm Ayesha Virk, passionate about world of Tech and AI.
+
+🔭 I'm currently working on: Hackathons and Academic Projects
+
+🌱 I'm learning advanced AI tools and Generative AI technologies.
+
+📫 Stay in touch by mailing me on ashiasad546@gmail.com
+
+⚡ Lets Unite to Spark REVOLUTION!
 
 <!--
 **ayesha-asad07/ayesha-asad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
