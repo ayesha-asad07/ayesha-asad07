@@ -8,7 +8,7 @@ I'm Ayesha Virk, passionate about world of Tech and AI.
 
 📫 Stay in touch by mailing me on ashiasad546@gmail.com
 
-⚡ Lets Unite to Spark REVOLUTION!
+⚡ Lets Unite to Spark REVOLUTION !
 
 <!--
 **ayesha-asad07/ayesha-asad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
