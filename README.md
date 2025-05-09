@@ -2,7 +2,7 @@
 
 I'm Ayesha Virk, passionate about world of Tech and AI.
 
-🔭 I'm currently working on: Hackathons and Academic Projects
+🔭 I'm currently working on: Hackathons, Freelancing and Academic Projects
 
 🌱 I'm learning advanced AI tools and Generative AI technologies.
 
